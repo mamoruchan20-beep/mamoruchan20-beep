@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет 👋, меня зовут Анфиса!
 
-<!--
-**mamoruchan20-beep/mamoruchan20-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студентка 1 курса Иркутского государственного университета, учусь на направлении **Прикладная информатика в дизайне**.
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
+- 🎓 Учусь создавать красивые и удобные интерфейсы
+- 💻 Изучаю программирование и веб-разработку
+- 🎨 Увлекаюсь дизайном
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Чему учусь прямо сейчас
+- Git и GitHub
+- Основы программирования
+- Веб-дизайн
+
+## 📫 Как со мной связаться
+- Telegram: @qwfissa
+- Email: mamoru.chan20@gmail.com
+
+## ⭐ Интересный факт
+Мой любимый сериал - Castle! 🎉
