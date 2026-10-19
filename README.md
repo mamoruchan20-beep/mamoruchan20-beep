@@ -22,4 +22,4 @@
 
 ## ⭐ Интересный факт
 Мой любимый сериал - Castle! 🎉
-<img width="240" height="240" alt="касл" src="https://github.com/user-attachments/assets/9e4e8826-3c35-4e63-8732-2564ad6ded9a" />
+<img width="360" height="360" alt="касл" src="https://github.com/user-attachments/assets/9e4e8826-3c35-4e63-8732-2564ad6ded9a" />
